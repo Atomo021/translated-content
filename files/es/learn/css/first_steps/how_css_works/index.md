@@ -119,7 +119,7 @@ span {
 }
 ```
 
-El navegador analizará el código HTML y creará un DOM a partir de este. A continuación, analizará el CSS. Dado que la única regla disponible en el CSS tiene un selector `span`, el navegador ¡ordenará el CSS muy rápidamente! Aplicará la regla a cada uno de los tres `<span>`, que mostrarán en pantalla la representación visual final.
+El navegador analizará el código HTML y creará un DOM a partir de este. A continuación, analizará el CSS. Dado que la única regla disponible en el CSS tiene un selector `span`, ¡el navegador ordenará el CSS rápidamente!, aplicará la regla a cada uno de los tres `<span>`, que mostrarán en pantalla la representación visual final.
 
 La salida actualizada es la siguiente:
 
